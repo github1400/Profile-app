@@ -1,0 +1,8 @@
+body {text-align:center;background:linear-gradient(#fcba03;#f0fc03);}
+h1 {font-size:40px; font-family:sans-serif; font-weight:300;}
+#line {height:6px;background-color:black; width:70px;text-align:center; margin:auto;}
+img { transition: transform .2s; } img:hover { transform: scale(0.9); }     
+#myCarousel{background-color:red;}
+#myCarousel img {height:300px;margin-top:35px;}
+.carousel-inner p { margin-bottom: 15px; margin-top: 15px; color : white; font-size: 20px; }
+.container { text-align: center; }
